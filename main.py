@@ -1,3 +1,4 @@
+# Multiplication game. For loop with range and interval
 num = int(input("Provide a number to give you it's multiplication table: "))
 counter = 0
 for i in range (1, 13, 1):
